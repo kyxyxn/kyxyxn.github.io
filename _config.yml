@@ -108,6 +108,7 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an **amazing** person."
   location         : "Tempe, AZ 🇺🇸"
+  employer         : "Arizona State University"
   email            :
   links:
     - label: "Email"
@@ -116,9 +117,9 @@ author:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://kyxyxn.github.io"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/kyxyxn"
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/kyuyeon-jenny-rhee-9946321b9/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/kkyyeeeeee"
@@ -202,7 +203,7 @@ sass:
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: MST
 
 
 # Plugins (previously gems:)
