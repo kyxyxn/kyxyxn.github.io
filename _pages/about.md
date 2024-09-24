@@ -11,5 +11,5 @@ I am currently in my XXth year as a PhD candidate in Information Systems at XX U
 
 My research focuses on how technological advancements shape healthcare systems and influence outcomes for providers, patients, and organizations. My projects have explored:
 - The impact of telehealth delivery models and on access to care in underserved communities.
-- The integration of video visits into traditional hospital system and its influence on in-person providers' workload.
-- How firms' AI capabilities affect the efficiency of clinical trials and drug development processes.
+- The integration of video visits into traditional hospital systems and its influence on in-person providers' workload.
+- The effect of firms' AI capabilities on the efficiency of clinical trials and drug development processes.
